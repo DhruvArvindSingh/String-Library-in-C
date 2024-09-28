@@ -1,5 +1,6 @@
 String Lirary of C:
 
+
 With functions 
 void compare
 void reverse
@@ -15,7 +16,7 @@ void foccurance
 void loccurance
 void uppercase
 void lowercase
-void nuppercase
+void nuppercasev
 void nlowercase
 
 
