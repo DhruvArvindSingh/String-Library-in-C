@@ -1,7 +1,7 @@
 String Lirary of C:
 
 
-With functions:      
+With functions::      
 void compare 
 void reverse
 int length
