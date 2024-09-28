@@ -1,8 +1,8 @@
 String Lirary of C:
 
 
-With functions 
-void compare
+With functions:      
+void compare 
 void reverse
 int length
 void count
