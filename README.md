@@ -2,7 +2,7 @@ String Lirary of C:
 
 
 With functions::      
-void compare 
+void compare \n
 void reverse
 int length
 void count
